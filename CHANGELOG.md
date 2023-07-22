@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.2](https://github.com/zuzanawangle/buttercms-php/compare/v3.1.1...v3.1.2) (2023-07-22)
+
+
+### Bug Fixes
+
+* change publish conditions ([d53be92](https://github.com/zuzanawangle/buttercms-php/commit/d53be92e65f0ac1e36955184ecaa99ad97c7dec5))
+
 ## [3.1.1](https://github.com/zuzanawangle/buttercms-php/compare/v3.1.0...v3.1.1) (2023-07-22)
 
 
