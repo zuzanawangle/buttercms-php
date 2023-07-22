@@ -22,4 +22,3 @@ jobs:
         with:
           username: ${{ secrets.PACKAGIST_USERNAME }}
           api_token: ${{ secrets.PACKAGIST_TOKEN }}
-
