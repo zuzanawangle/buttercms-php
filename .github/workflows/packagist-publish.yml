@@ -6,14 +6,11 @@
 
 name: Packagist Update
 
-on: 
-  push:
-    branches:
-      - master
+on: push
 
 jobs:
   publish-package:
-    if: startsWith(github.event.head_commit.message, 'chore(release)') 
+    if: github.ref == 'refs/heads/master' && github.event_name == 'push' && startsWith(github.event.head_commit.message, 'chore(release)')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3.5.3
