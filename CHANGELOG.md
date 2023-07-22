@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.1](https://github.com/zuzanawangle/buttercms-php/compare/v3.1.0...v3.1.1) (2023-07-22)
+
+
+### Bug Fixes
+
+* remove a whitespace ([16e260b](https://github.com/zuzanawangle/buttercms-php/commit/16e260bc4937a3b7ae3a125ac2d1677b160187e2))
+
 ## [3.1.0](https://github.com/zuzanawangle/buttercms-php/compare/v3.0.1...v3.1.0) (2023-07-22)
 
 
