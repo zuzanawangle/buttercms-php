@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.4](https://github.com/zuzanawangle/buttercms-php/compare/v3.1.3...v3.1.4) (2023-07-30)
+
+
+### Bug Fixes
+
+* trigger on tag ([09ad11d](https://github.com/zuzanawangle/buttercms-php/commit/09ad11dafdbf8a55d64f4b0d9622c2e5570d344d))
+
 ## [3.1.3](https://github.com/zuzanawangle/buttercms-php/compare/v3.1.2...v3.1.3) (2023-07-30)
 
 
