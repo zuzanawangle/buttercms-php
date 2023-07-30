@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.6](https://github.com/zuzanawangle/buttercms-php/compare/v3.1.5...v3.1.6) (2023-07-30)
+
+
+### Bug Fixes
+
+* merge workflows ([9b81aa5](https://github.com/zuzanawangle/buttercms-php/commit/9b81aa50712dd2bb2b8a4d604204635ff4be6649))
+
 ## [3.1.5](https://github.com/zuzanawangle/buttercms-php/compare/v3.1.4...v3.1.5) (2023-07-30)
 
 
